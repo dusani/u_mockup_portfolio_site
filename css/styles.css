@@ -1,0 +1,33 @@
+body {
+  font-family: "Special Elite", cursive;
+  margin-top: 30px;
+}
+
+.logo {
+  width: 90px;
+}
+
+hr {
+  height: 3px;
+  background-color: #7d97ad;
+  margin-bottom: 30px;
+}
+
+.hero-img {
+  margin-bottom: 30px;
+}
+
+.projects-work {
+  text-align: center;
+}
+
+.projects-work img {
+  margin-bottom: 20px;
+}
+
+.sunflower,
+.appify,
+.bokeh {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
